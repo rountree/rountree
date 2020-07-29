@@ -5,10 +5,10 @@
 - [Sample code for msr-safe batch interface](https://gist.github.com/rountree/46dd75b2f89440a688e7b37df1579716)
 
 ### Repos/Forks
-- [rountree](https://github.com/rountree/rountree) git@github.com:rountree/rountree.git 
-- [flux-var](https://github.com/rountree/flux-var) git@github.com:rountree/flux-var.git
-- [var](https://github.com/rountree/var) git@github.com:rountree/var.git
-- gcc ([mirror](git@github.com:gcc-mirror/gcc.git)) git@github.com:gcc-mirror/gcc.git ([fork](git@github.com:rountree/gcc.git)) git@github.com:rountree/gcc.git
+- [rountree](https://github.com/rountree/rountree)  
+- [flux-var](https://github.com/rountree/flux-var)
+- [var](https://github.com/rountree/var)
+- gcc ([mirror](git@github.com:gcc-mirror/gcc.git)) ([fork](git@github.com:rountree/gcc.git)) 
 - msr-safe ([LLNL](https://github.com/LLNL/msr-safe)) ([fork](https://github.com/rountree/msr-safe))
 - Variorum ([LLNL](https://github.com/LLNL/variorum)) ([fork](https://github.com/rountree/variorum))
 - FIRESTARTER ([TUD](https://github.com/tud-zih-energy/FIRESTARTER)) ([fork](https://github.com/rountree/FIRESTARTER))
