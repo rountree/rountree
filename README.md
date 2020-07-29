@@ -8,7 +8,7 @@
 - [rountree](https://github.com/rountree/rountree)  
 - [flux-var](https://github.com/rountree/flux-var)
 - [var](https://github.com/rountree/var)
-- gcc ([mirror](git@github.com:gcc-mirror/gcc.git)) ([fork](git@github.com:rountree/gcc.git)) 
+- gcc ([mirror](https://github.com/gcc-mirror/gcc)) ([fork](https://github.com/rountree/gcc)) 
 - msr-safe ([LLNL](https://github.com/LLNL/msr-safe)) ([fork](https://github.com/rountree/msr-safe))
 - Variorum ([LLNL](https://github.com/LLNL/variorum)) ([fork](https://github.com/rountree/variorum))
 - FIRESTARTER ([TUD](https://github.com/tud-zih-energy/FIRESTARTER)) ([fork](https://github.com/rountree/FIRESTARTER))
