@@ -8,6 +8,7 @@
 - [rountree](https://github.com/rountree/rountree)  
 - [flux-var](https://github.com/rountree/flux-var)
 - [var](https://github.com/rountree/var)
+- [bibliothecae](https://github.com/rountree/bibliothecae)
 
 ### My forks
 - FIRESTARTER ([TUD](https://github.com/tud-zih-energy/FIRESTARTER)) ([fork](https://github.com/rountree/FIRESTARTER))
