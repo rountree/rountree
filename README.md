@@ -16,6 +16,7 @@
 - gcc ([mirror](https://github.com/gcc-mirror/gcc)) ([fork](https://github.com/rountree/gcc)) 
 - GEOPM ([Intel](https://github.com/geopm/geopm)) ([fork](https://github.com/rountree/geopm))
 - hwloc ([OpenMPI](https://github.com/open-mpi/hwloc)) ([fork](https://github.com/rountree/hwloc))
+- linux ([torvalds](https://github.com/torvalds/linux)) ([fork](https://github.com/rountree/linux))
 - msr-safe ([LLNL](https://github.com/LLNL/msr-safe)) ([fork](https://github.com/rountree/msr-safe))
 - msr-tools ([Intel](https://github.com/intel/msr-tools)) ([fork](https://github.com/rountree/msr-tools))
 - tmux ([tmux](https://github.com/tmux/tmux)) ([fork](https://github.com/rountree/tmux)) 
