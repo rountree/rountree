@@ -15,6 +15,7 @@
 - flux-core ([LLNL](https://github.com/flux-framework/flux-core)) ([fork](https://github.com/rountree/flux-core))
 - gcc ([mirror](https://github.com/gcc-mirror/gcc)) ([fork](https://github.com/rountree/gcc)) 
 - GEOPM ([Intel](https://github.com/geopm/geopm)) ([fork](https://github.com/rountree/geopm))
+- git ([git](https://github.com/git/git)) ([fork](https://github.com/rountree/git))
 - hwloc ([OpenMPI](https://github.com/open-mpi/hwloc)) ([fork](https://github.com/rountree/hwloc))
 - linux ([torvalds](https://github.com/torvalds/linux)) ([fork](https://github.com/rountree/linux))
 - msr-safe ([LLNL](https://github.com/LLNL/msr-safe)) ([fork](https://github.com/rountree/msr-safe))
