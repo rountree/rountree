@@ -8,6 +8,7 @@
 - [bibliothecae](https://github.com/rountree/bibliothecae)
 - [exegete](https://github.com/rountree/exegete)
 - [flux-var](https://github.com/rountree/flux-var)
+- [msr-census](https://github.com/rountree/msr-census)
 - [packet-home](https://github.com/rountree/packet_home)
 - [rountree](https://github.com/rountree/rountree)  
 - [var](https://github.com/rountree/var)
