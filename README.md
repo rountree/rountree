@@ -24,6 +24,7 @@
 - linux ([torvalds](https://github.com/torvalds/linux)) ([fork](https://github.com/rountree/linux))
 - msr-safe ([LLNL](https://github.com/LLNL/msr-safe)) ([fork](https://github.com/rountree/msr-safe))
 - msr-tools ([Intel](https://github.com/intel/msr-tools)) ([fork](https://github.com/rountree/msr-tools))
+- nanopond ([Adam Ieymenko](https://github.com/adamierymenko/nanopond)) ([fork](https://github.com/rountree/nanopond))
 - qemu ([qemu](https://github.com/qemu/qemu)) ([fork](https://github.com/rountree/qemu))
 - scream ([E3SM](https://github.com/E3SM-Project/scream)) ([fork](https://github.com/rountree/scream))
 - tmux ([tmux](https://github.com/tmux/tmux)) ([fork](https://github.com/rountree/tmux)) 
